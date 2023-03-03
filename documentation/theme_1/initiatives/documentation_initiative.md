@@ -42,4 +42,4 @@ Team:
 - Quality Assurance Engineer: The quality assurance engineer will be responsible for testing the project to ensure that it meets all requirements and functions correctly. They will work closely with the developer to identify and resolve any issues that arise during testing.
 
 # List epics related to this theme
-1. [Epic 1](documentation/theme_1/epics/documentation_epic1.md)
+1. [Epic 1](epics/documentation_epic1.md)
