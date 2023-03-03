@@ -40,4 +40,4 @@ Dependencies:
 Team: TBA
 
 # List epics related to this theme
-1. [Epic 1](documentation/theme_1/epics/webpageTemplate_epic1.md)
+1. [Epic 1](epics/webpageTemplate_epic1.md)

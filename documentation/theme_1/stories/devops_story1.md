@@ -8,4 +8,4 @@ Acceptance Criteria:
 5. The build process should be able to integrate with any existing continuous integration and continuous deployment (CI/CD) pipelines.
 
 # List Tasks related to this theme
-1. [Task 1](documentation/theme_1/tasks/devops_task1.md)
+1. [Task 1](tasks/devops_task1.md)

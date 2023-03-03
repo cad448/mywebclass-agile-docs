@@ -27,4 +27,4 @@ Business Value:
 Priority: Priority 1
 
 # List stories related to this theme
-1. [Story 1](documentation/theme_1/stories/webpageTemplate_story1.md)
+1. [Story 1](stories/webpageTemplate_story1.md)
