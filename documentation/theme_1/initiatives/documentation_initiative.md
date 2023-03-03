@@ -17,10 +17,16 @@ Deliverables:
 - Communication plan
 
 Milestones: 
-- TBA
+- Introductory meeting to establish responsibilities
+- Initial prototypes of the website
+- Refining documentation 
+- Final review 
 
 Constraints:
 - Time
+- Amount of team members available
+- Documentation must comply with industry stsandards
+- Tools available
 
 Assumptions: 
 - Time will be available
