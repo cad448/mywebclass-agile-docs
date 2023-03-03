@@ -37,7 +37,9 @@ Dependencies:
 - Resources/technology
 
 Team: 
-- TBA
+- Project Manager: The project manager will be responsible for overseeing the entire project and ensuring that it is completed within the given timeframe and budget. They will also be responsible for managing the team and ensuring that everyone is on track and communicating effectively.
+- Developer: The developer will be responsible for implementing the project according to the technical specifications. They will work closely with the designer to ensure that all elements are implemented correctly and function as expected.
+- Quality Assurance Engineer: The quality assurance engineer will be responsible for testing the project to ensure that it meets all requirements and functions correctly. They will work closely with the developer to identify and resolve any issues that arise during testing.
 
 # List epics related to this theme
 1. [Epic 1](documentation/theme_1/epics/documentation_epic1.md)
