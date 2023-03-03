@@ -13,4 +13,4 @@ The template must follow industry standards and best practices for web developme
 The template must be tested and debugged to ensure it functions as expected.
 
 # List Stories related to this theme
-1. [Task 1](documentation/theme_1/webpageTemplate_task1.md)
+1. [Task 1](documentation/theme_1/tasks/webpageTemplate_task1.md)
