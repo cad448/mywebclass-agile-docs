@@ -1,4 +1,4 @@
-"Develop initial project documentation to establish a clear project scope"
+Title: "Develop initial project documentation to establish a clear project scope"
 
 Description: Develop the project documentation and establish the project scope of MyWebClass.org, which defines the boundaries of the project and outlines the specific goals and objectives that the project aims to achieve.
 
@@ -15,7 +15,6 @@ Deliverables:
 - Requirements 
 - Project plan
 - Communication plan
-- Stakeholder analysis
 
 Milestones: 
 - TBA
@@ -41,4 +40,4 @@ Team:
 - TBA
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](documentation/theme_1/documentation_epic1.md)

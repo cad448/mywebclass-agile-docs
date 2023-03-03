@@ -4,3 +4,5 @@
 
 ## Test Plan
 How will these be tested?
+
+* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.]
